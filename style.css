@@ -1,0 +1,37 @@
+
+header {font-family: Bitter, serif; text-align: center; }
+
+ nav ul 
+{background-color:lightblue; list-style-type: none;}
+
+ nav li 
+{display: inline-block; 
+padding: 15px;
+float: left;
+  font-family: Raleway;
+  color:black; font-weight: bold;
+  
+}
+
+  nav a 
+{text-decoration: none; font-family: Raleway; color: black; text-transform: uppercase;
+  
+width: 120px;
+}
+
+.body {
+  font-family: Raleway,sans-serif;
+  display: inline-block;
+  width: 49%;
+  vertical-align: top;
+  
+    
+    
+    .half-box {
+      display: inline-block;
+      width: 50%;
+/*      vertical-align: top;*/
+      background-color:orange;
+      
+  
+}
